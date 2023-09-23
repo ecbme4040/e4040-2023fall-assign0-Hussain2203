@@ -46,16 +46,16 @@ Students must upload three similar screenshots in the same directory, but with t
 ## Organization of Directory
 
 ```            
-e4040-2023fall-assign0-UNI
+./
 ├── Assignment 0.ipynb
 ├── README.md
 ├── figures
-│   ├── README.md
-│   ├── gcp_work_example_screenshot_1.png
-│   ├── gcp_work_example_screenshot_2.png
-│   └── gcp_work_example_screenshot_3.png
+│   ├── README.md
+│   ├── gcp_work_example_screenshot_1.png
+│   ├── gcp_work_example_screenshot_2.png
+│   └── gcp_work_example_screenshot_3.png
 └── requirements.txt
 
-1 directory, 8 files
-```
+1 directory, 7 files
 
+```
