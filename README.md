@@ -59,3 +59,39 @@ Students must upload three similar screenshots in the same directory, but with t
 1 directory, 7 files
 
 ```
+./
+├── Assignment 0.ipynb
+├── README.md
+├── figures
+│   ├── README.md
+│   ├── gcp_work_example_screenshot_1.png
+│   ├── gcp_work_example_screenshot_2.png
+│   └── gcp_work_example_screenshot_3.png
+├── hd2551_Assignment 0.ipynb
+└── requirements.txt
+
+1 directory, 8 files
+./
+├── Assignment 0.ipynb
+├── README.md
+├── figures
+│   ├── README.md
+│   ├── gcp_work_example_screenshot_1.png
+│   ├── gcp_work_example_screenshot_2.png
+│   └── gcp_work_example_screenshot_3.png
+├── hd2551_Assignment 0.ipynb
+└── requirements.txt
+
+1 directory, 8 files
+./
+├── Assignment 0.ipynb
+├── README.md
+├── figures
+│   ├── README.md
+│   ├── gcp_work_example_screenshot_1.png
+│   ├── gcp_work_example_screenshot_2.png
+│   └── gcp_work_example_screenshot_3.png
+├── hd2551_Assignment 0.ipynb
+└── requirements.txt
+
+1 directory, 8 files
